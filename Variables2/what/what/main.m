@@ -30,6 +30,9 @@ int main(int argc, const char * argv[]) {
 			NSLog(@"On the %@ Day of Christmas my true love gave to me: %@" , days[i], gifts[i]);
 			
 			}
+        
+        NSString *ourName = @"Eric";
+        NSLog(@"Hey %@, I'm %@.", ourName, ourName);
 	}
     return 0;
 }
