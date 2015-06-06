@@ -31,6 +31,8 @@ int main(int argc, const char * argv[]) {
 	//NSLog(@"%d", is5GreaterThan7);
 	//NSLog(@"%d", result);
 	
+	int i = 0;
+	
 	NSArray *favoriteBooks = @[@"The_Magicians", @"The_Name_of_the_Wind", @"American_Gods",
 								 @"Good_Omens", @"The_Princess_Bride"];
 		
